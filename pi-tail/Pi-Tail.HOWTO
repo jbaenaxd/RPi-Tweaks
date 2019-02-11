@@ -54,7 +54,7 @@ Tip:  Having several interfaces active might upset the default gateway settings.
 2.    WiFi tethering:
                        Pi-Tail will connect to the AP's defined in:
                          /boot/interfaces
-                         /etc/wpa_supplicant.conf
+                         /etc/wpa_supplicant/wpa_supplicant.conf
                        Out of the box it will connect to the following hotspot:
                          SSID:      sepultura
                          Password:  R4t4m4h4tt4
